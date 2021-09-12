@@ -4,3 +4,4 @@ repo = "https://github.com/RoyCCWang/PublicJuliaRegistry"
 description = "Public unregistered Julia packages"
 
 [packages]
+c16f81ae-bc18-4c85-8dee-b67f3150a483 = { name = "Utilities", path = "U/Utilities" }
